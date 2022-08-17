@@ -20,3 +20,10 @@ parathreads [here](https://wiki.polkadot.network/docs/learn-parathreads).
 
 🧙 Learn about how to use this template and run your own parachain testnet for it in the
 [Devhub Cumulus Tutorial](https://docs.substrate.io/tutorials/v3/cumulus/start-relay/).
+
+
+//0x17e8e52177c711bb3192ad5dfb7d35b631531d3f9f748d0fe61ef21b5ace3fdf
+
+//0x17e8e52177c711bb3192ad5dfb7d35b631531d3f9f748d0fe61ef21b5ace3fdf
+
+//0xfa3f60a295030cc7ae541197cc7827effc3d89148b675c2339f03b8a7b93cdd3
